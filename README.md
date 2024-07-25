@@ -1,2 +1,2 @@
-# Rozarpay
- Using Tailwind
+# rozarpay
+ 
